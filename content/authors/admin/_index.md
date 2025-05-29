@@ -74,7 +74,7 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
     institution: Zhejiang University
-    date_start: 2020-00-01
+    date_start: 2020-09-01
     date_end: 2024-06-30
     summary: |
       GPA: 3.99/4.0
