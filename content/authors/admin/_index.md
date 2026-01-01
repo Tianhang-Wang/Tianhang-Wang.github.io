@@ -186,4 +186,4 @@ awards:
 
 Tianhang Wang is pursuing a PhD at Zhejiang University, with a joint training program in collaboration with the Shanghai Innovation Institute (SII). He is currently advised by Jiaqi Wang and his interests focus on multimodal large language models (MLLMs) and image tokenization.
 
-📧 **Email**: tianhang_wang@zju.edu.cn
+ #📧 **Email**: tianhang_wang@zju.edu.cn
