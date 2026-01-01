@@ -32,8 +32,8 @@ sections:
           parallax: false
   
   - block: markdown
-    content:
     active: false
+    content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
