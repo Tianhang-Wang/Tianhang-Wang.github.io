@@ -73,7 +73,7 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+  - area: PhD Candidate
     institution: Zhejiang University
     date_start: 2020-09-01
     date_end: 2024-06-30
