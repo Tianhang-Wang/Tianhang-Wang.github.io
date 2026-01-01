@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student #Chief Scientist
+role: tianhang_wang@zju.edu.cn #Student #Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
