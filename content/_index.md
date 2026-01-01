@@ -30,8 +30,10 @@ sections:
           size: cover
           position: center
           parallax: false
+  
   - block: markdown
     content:
+    active: false
       title: '📚 My Research'
       subtitle: ''
       text: |-
@@ -44,6 +46,7 @@ sections:
       columns: '1'
   - block: collection
     id: papers
+    active: false
     content:
       title: Featured Publications
       filters:
@@ -54,6 +57,7 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
+    active: false
     content:
       title: Recent Publications
       text: ""
@@ -65,6 +69,7 @@ sections:
       view: citation
   - block: collection
     id: talks
+    active: false
     content:
       title: Recent & Upcoming Talks
       filters:
@@ -75,6 +80,7 @@ sections:
       columns: 1
   - block: collection
     id: news
+    active: false
     content:
       title: Recent News
       subtitle: ''
@@ -104,6 +110,7 @@ sections:
         padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
+    active: false
     content:
       title: 👉 Build your own academic website like this
       text: |-
