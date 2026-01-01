@@ -25,7 +25,7 @@ role: Student #Chief Scientist
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Zhejiang University, SII
-  - 📧 **Email**: tianhang_wang@zju.edu.cn
+  - Email: tianhang_wang@zju.edu.cn
     #url: https://openai.com/
 
 # Social network links
